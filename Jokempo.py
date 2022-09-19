@@ -21,6 +21,7 @@ for c in range(0, qtde):
             print("{} jogou Pedra e {} jogou Pedra".format(nome, nomepc))
             print("Empate!")
             print("===" * 10)
+            
         elif pc == 1:
             print("===" * 10)
             print("{} jogou Pedra e {} jogou Papel".format(nome, nomepc))
