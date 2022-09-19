@@ -62,6 +62,7 @@ for c in range(0, qtde):
             print("{} ganhou".format(nomepc))
             cpu += 1
             print("xxx" * 10)
+            
         elif pc == 1:
             print("xxx" * 10)
             print("{} jogou Tesoura e {} jogou Papel".format(nome, nomepc))
