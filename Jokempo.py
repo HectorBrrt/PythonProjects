@@ -28,6 +28,7 @@ for c in range(0, qtde):
             print("{} ganhou".format(nomepc))
             print("===" * 10)
             cpu += 1
+            
         elif pc == 2:
             print("===" * 10)
             print("{} jogou Pedra e {} jogou Tesoura".format(nome, nomepc))
@@ -77,7 +78,7 @@ for c in range(0, qtde):
             print("xxx" * 10)
     sleep(0.5)
     
-print("De um total de {} partidas, você ganhou {} e o computador ganhou {}".format(qtde, v, cpu))
+
 
 if v == 3:
     print("Vitória perfeita!")
