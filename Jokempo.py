@@ -79,7 +79,6 @@ for c in range(0, qtde):
     sleep(0.5)
     
 
-
 if v == 3:
     print("Vitória perfeita!")
 elif cpu == 3:
