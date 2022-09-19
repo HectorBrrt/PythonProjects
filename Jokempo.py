@@ -54,6 +54,7 @@ for c in range(0, qtde):
             cpu += 1
             print("---" * 10)
     sleep(0.5)
+    
     if user == 2:
         if pc == 0:
             print("xxx" * 10)
