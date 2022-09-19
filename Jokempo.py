@@ -1,5 +1,6 @@
 from random import randint
 from time import sleep
+
 print("-=-"*10)
 print("[0] Pedra \n[1] Papel \n[2] Tesoura")
 print("-=-"*10)
