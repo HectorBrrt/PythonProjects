@@ -34,6 +34,7 @@ for c in range(0, qtde):
             v += 1
             print("===" * 10)
     sleep(0.5)
+    
     if user == 1:
         if pc == 0:
             print("---" * 10)
