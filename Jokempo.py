@@ -11,6 +11,7 @@ cpu = 0
 v = 0
 pc = 0
 qtde = int(input("Você quer jogar melhor quantas? "))
+
 for c in range(0, qtde):
     user = int(input("Digite o número da sua opção: "))
     pc = randint(0, 2)
