@@ -78,7 +78,6 @@ for c in range(0, qtde):
             print("xxx" * 10)
     sleep(0.5)
     
-
 if v == 3:
     print("Vitória perfeita!")
 elif cpu == 3:
