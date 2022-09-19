@@ -74,6 +74,7 @@ for c in range(0, qtde):
             print("Empate!")
             print("xxx" * 10)
     sleep(0.5)
+    
 print("De um total de {} partidas, você ganhou {} e o computador ganhou {}".format(qtde, v, cpu))
 
 if v == 3:
